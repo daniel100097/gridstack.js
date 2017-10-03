@@ -11,6 +11,8 @@
 import * as jQuery from 'jquery';
 import * as _ from 'lodash'
 
+global.jQuery = jQuery;
+
 import './jquery-ui'
 
 const $ = jQuery;
