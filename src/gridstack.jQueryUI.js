@@ -8,8 +8,8 @@
  */
 
 
-import jQuery from 'jquery';
-import _ from 'lodash'
+import * as jQuery from 'jquery';
+import * as _ from 'lodash'
 
 const $ = jQuery;
 
