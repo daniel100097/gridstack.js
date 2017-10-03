@@ -11,6 +11,8 @@
 import * as jQuery from 'jquery';
 import * as _ from 'lodash'
 
+import './jquery-ui'
+
 const $ = jQuery;
 
 import GridStackUI from './gridstack'
