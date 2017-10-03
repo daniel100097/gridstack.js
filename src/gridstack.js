@@ -1,3 +1,5 @@
+"use strict";
+
 /**
  * gridstack.js 1.0.0-dev
  * http://troolee.github.io/gridstack.js/
